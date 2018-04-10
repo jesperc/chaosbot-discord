@@ -1,0 +1,22 @@
+{
+  "name": "chaosbot-discord",
+  "version": "1.0.0",
+  "description": "for every message sent, chaos bot replies with a /tts version of the message in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesperc/chaosbot-discord.git"
+  },
+  "author": "Jesper Corell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesperc/chaosbot-discord/issues"
+  },
+  "homepage": "https://github.com/jesperc/chaosbot-discord#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
